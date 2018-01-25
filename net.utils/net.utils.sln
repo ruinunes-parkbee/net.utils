@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingsLoader", "SettingsL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheIt", "CacheIt\CacheIt.csproj", "{C077C402-5296-46D2-BFDE-6C25F01C4BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateLib", "DateLib\DateLib.csproj", "{4A812A87-7272-4ECD-8B43-6E1D51FF0AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C077C402-5296-46D2-BFDE-6C25F01C4BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C077C402-5296-46D2-BFDE-6C25F01C4BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C077C402-5296-46D2-BFDE-6C25F01C4BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A812A87-7272-4ECD-8B43-6E1D51FF0AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A812A87-7272-4ECD-8B43-6E1D51FF0AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A812A87-7272-4ECD-8B43-6E1D51FF0AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A812A87-7272-4ECD-8B43-6E1D51FF0AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
